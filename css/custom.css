@@ -5,6 +5,7 @@
  /* background-image:url('../images/light_wool.png'),-moz-radial-gradient(center, #c9de96 0%,rgb(215,215,215) 44%,#ffdd00 100%);
  background-image:url('../images/light_wool.png'),-o-radial-gradient(center, #c9de96 0%,#8ab66b 44%,#398235 100%);
  background-image:url('../images/light_wool.png'),radial-gradient(center, #c9de96 0%,#8ab66b 44%,#398235 100%) */
+ background: rgb(255, 255, 255);
  }
 
 .componentContainer {
